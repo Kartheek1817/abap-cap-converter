@@ -1,0 +1,8 @@
+com\example\abapcap\AbapCapController$ConvertResponse.class
+com\example\abapcap\WebConfig.class
+com\example\abapcap\AbapCapController$ConvertRequest.class
+com\example\abapcap\AbapCapController.class
+com\example\abapcap\AbapCapController$ChatResponse.class
+com\example\abapcap\AbapCapController$ChatRequest.class
+com\example\abapcap\AbapCapController$GeneratedFile.class
+com\example\abapcap\AbapCapApplication.class
